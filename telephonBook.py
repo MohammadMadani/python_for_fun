@@ -2,9 +2,9 @@
 
 import os
 
-my_list = {'mammad':'0914 713 7284',
-            'babm':'0914 948 2217',
-            'xabat':'0914 942 6091'
+my_list = {'mammad':'0914 713',
+            'babm':'0914 948 ',
+            'xabat':'0914 942'
             }
             
 clear = os.system('clear')
