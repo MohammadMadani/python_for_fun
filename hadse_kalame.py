@@ -1,11 +1,9 @@
-#hadse kalame
-
-#make a new list of words
-#select randome them
+#hadse kalame is a game
 
 import random
 import os
 
+#list of words
 my_list = [
     'mammad',
     'xabat',
